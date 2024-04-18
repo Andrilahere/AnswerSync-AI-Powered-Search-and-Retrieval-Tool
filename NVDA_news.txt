@@ -1,0 +1,29 @@
+Heads up, Nvidia (NASDAQ:NVDA) stock fans. Now could actually be a decent time to add this high-growth AI-related stock to your portfolio.
+
+Nvidia’s recent run may seem to preclude such ideas. After all, NVDA stock has surged nearly 90% year-to-date and is up more than 225% over the past year. Such a run, for a company of this size (now with a market cap of $2.25 trillion) should mean that some selling pressure should take this stock lower, at least over the near-term.
+
+I don’t think this will be the case. Nvidia’s recent unveiling of its B100 GPU, which can handle larger, high-performance computing and AI, as well as its Blackwell GPUs, could lead to an even bigger lead in a highly-profitable and fast-growing segment.
+So, I think now is the time for investors to (paradoxically) strap in for a wild ride. I think the ride will be higher, at least over the remainder of this year.
+
+The Launch of AI-Powered Robots
+On Monday, NVDA stock announced a new software and hardware platform that was designed to develop human-like robots with generative AI capabilities. The platform comprises a computer system, AI components, and software tools like genAI, which were showcased during Nvidia’s developer conference. Jim Fan, Nvidia’s embodied AI lead, highlighted GR00T’s capacity for robots to interpret instructions from language, video, and demonstrations.
+
+Fan stated that the company collaborated with leading worldwide humanoid companies to ensure GR00T’s adaptability and support the growth of the ecosystem. He emphasized Project GR00T as a pivotal aspect of GEAR Lab’s Foundation Agent roadmap, focusing on creating versatile robots for various environments. Additionally, the company highlighted other use cases for deploying advanced robots in heavy industries, leveraging Nvidia’s Jetson Thor and the Isaac platform.
+
+Nvidia’s “Jetson Thor” provides computational power for complex tasks and interaction, while “Isaac” and GR00T ensure adaptability across environments. Reinforcement learning improves decision-making, with Nvidia introducing pre-trained models and software upgrades for robotics. CEO Jensen Huang predicts artificial general intelligence (AGI) will be everywhere in five years. Who’s to disagree with the man?
+
+Nvidia CEO Has Strong Faith in AI
+At a developer conference in California, CEO Jensen Huang emphasized the importance of larger GPUs in advancing generative AI. Huang suggested that AI could excel in various tests within five years with sufficient resources and computational power. Notably, Nvidia’s AI chips contribute to systems like OpenAI’s ChatGPT, illustrating progress toward artificial general intelligence.
+Dubbed “AI Woodstock” by Wedbush analyst Dan Ives, the event drew significant attention as Nvidia played a pivotal role in the AI revolution. CEO Huang humorously reminded attendees that it was a developers’ conference, not a concert. Nvidia’s dominant GPU chips and software, mainly the H100 product, remain unrivaled in powering generative AI.
+
+Other major tech players have also ventured into AI chip development. However, these companies generally rely on Nvidia’s core processors, due to their unmatched performance. Nvidia’s pivotal role in the AI revolution has been the key driver of its recent outperformance, and I think more upside could be on the horizon. Analysts seem to agree.
+
+NVDA Stock Remains a Long-Term Buy and Hold
+I think NVDA stock is a stock to own, not trade. At current levels, one could certainly make the argument the stock is pricey. Indeed, at 37-times sales, there are few companies that can garner this type of interest, in my view.
+That said, Nvidia’s stranglehold on the AI and cloud computing markets, driven by its advanced GPUs vital for diverse applications like self-driving cars and cloud services, makes the stock indispensable. Yes, this is a mega-cap stock that’s trading like a penny stock. But I think slower and steadier gains are likely over time as the company matures.
+
+Let’s be honest – no one knows how big the AI market will be 10 years from now. So, for investors looking for exposure to the AI trade, Nvidia remains the way to play this space. That’s not going to change anytime soon.
+
+On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+
+Chris MacDonald’s love for investing led him to pursue an MBA in Finance and take on a number of management roles in corporate finance and venture capital over the past 15 years. His experience as a financial analyst in the past, coupled with his fervor for finding undervalued growth opportunities, contribute to his conservative, long-term investing perspective.
