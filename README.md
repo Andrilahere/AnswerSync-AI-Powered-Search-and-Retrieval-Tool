@@ -7,7 +7,7 @@ AnswerSync is a user-friendly news research tool designed for effortless informa
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 # Usage/Example
 1. Run the Streamlit app by executing:
-   streamlit run main.py
+   - streamlit run main.py
 2. The web app will open in your browser.
 - On the sidebar, you can input URLs directly.
 - Initiate the data loading and processing by clicking "Process URLs."
